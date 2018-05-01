@@ -172,3 +172,30 @@
     margin-left: 18.6%;
   }  
 }
+
+@media screen and (max-width:360px) {
+  header {
+    width: 114%;
+  }
+  .section-team {
+    width: 114%;
+  }
+  .meals-showcase {
+    width: 125%;
+  }
+  .order {
+    width: 114%;
+  }
+  .map {
+    width: 114%;
+  }
+  footer {
+    width: 114%;
+  }
+  .header-active {
+    width: 100%;
+  }
+  .btn-up {
+    right: 2%;
+  }
+}
