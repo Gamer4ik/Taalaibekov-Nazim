@@ -14,6 +14,9 @@
   header .top-header .logo {
     padding-bottom: 5px;
   }
+  .order .container .list ul li .div-1 {
+    padding-top: 9px;
+  }
 }
 
 @media screen and (max-width:800px) {
