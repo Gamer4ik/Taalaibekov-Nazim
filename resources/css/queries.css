@@ -173,13 +173,7 @@
   }  
 }
 
-@media screen and (max-width:360px) {
-  .header-active {
-    width: 100%;
-  }
-  .btn-up {
-    right: 2%;
-  }
+@media screen and (max-width:409px) {
   .hidden {
     overflow-x: hidden !important;
   }
