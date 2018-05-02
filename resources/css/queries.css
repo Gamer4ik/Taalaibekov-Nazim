@@ -175,22 +175,22 @@
 
 @media screen and (max-width:360px) {
   header {
-    width: 103%;
+    width: 101%;
   }
   .section-team {
-    width: 103%;
+    width: 101%;
   }
   .meals-showcase {
-    width: 103%;
+    width: 101%;
   }
   .order {
-    width: 103%;
+    width: 101%;
   }
   .map {
-    width: 103%;
+    width: 101%;
   }
   footer {
-    width: 103%;
+    width: 101%;
   }
   .header-active {
     width: 100%;
