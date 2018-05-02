@@ -175,10 +175,10 @@
 
 @media screen and (max-width:360px) {
   .header-active {
-    width: 87.6%;
+    width: 100%;
   }
   .btn-up {
-    right: 14%;
+    right: 2%;
   }
   .hidden {
     overflow-x: hidden !important;
