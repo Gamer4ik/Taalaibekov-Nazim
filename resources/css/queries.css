@@ -1,3 +1,27 @@
+@media screen and (max-width:500px) {
+  header {
+    width: 100%;
+  }
+  .section-team {
+    width: 100%;
+  }
+  .meals-showcase {
+    width: 100%;
+  }
+  .order {
+    width: 100%;
+  }
+  .map {
+    width: 100%;
+  }
+  footer {
+    width: 100%;
+  }
+  .header-active {
+    width: 100%;
+  }
+}
+
 @media screen and (max-width:1250px) {
   body {
     font-size: 19px;
@@ -174,27 +198,6 @@
 }
 
 @media screen and (max-width:360px) {
-  header {
-    width: 113.5%;
-  }
-  .section-team {
-    width: 113.5%;
-  }
-  .meals-showcase {
-    width: 113.5%;
-  }
-  .order {
-    width: 113.5%;
-  }
-  .map {
-    width: 113.5%;
-  }
-  footer {
-    width: 113.5%;
-  }
-  .header-active {
-    width: 100%;
-  }
   .btn-up {
     right: 2%;
   }
