@@ -180,4 +180,7 @@
   .btn-up {
     right: 14%;
   }
+  .hidden {
+    overflow-x: hidden !important;
+  }
 }
